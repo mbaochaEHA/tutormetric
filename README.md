@@ -10,7 +10,7 @@ Features
 4. Online class
 5. Payment integration
 
-Backend : Nodejs
+Backend : Nodejs, GraphQL
 FrontEnd : NextJS, Bootstrap, CSS
 About NextJS : NextJS is a react framework that enables build front end application that optimizes well in search engine. We went the route of nextjs because we need
 the power of react without sacrificing SEO.
